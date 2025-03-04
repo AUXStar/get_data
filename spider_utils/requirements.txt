@@ -1,0 +1,10 @@
+openai
+opencv-python
+numpy
+undetected_chromedriver
+selenium
+selenium-wire
+brotli
+blinker==1.7.0
+setuptools
+lxml
